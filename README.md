@@ -39,6 +39,8 @@ Event Viewer · Windows 11 Pro · Ubuntu Server · VmWare
 ## 📂 Projects
 
 - Credential Dump Simulation Lab
+- Ransomeware Simulation Lab
+- YARA RUle Detection Lab
 
 > *More projects coming soon. Each project is documented in its own repository.*
 
