@@ -38,7 +38,7 @@ Event Viewer · Windows 11 Pro · Ubuntu Server · VmWare
 
 ## 📂 Projects
 
-- Credential Dump Simulation Lab
+- Credential Dump Simulation Lab [Credential Dump Similation](https://github.com/Kelvin-Ware/credential-dump-simulation-lab)
 - Ransomeware Simulation Lab
 - YARA RUle Detection Lab
 
